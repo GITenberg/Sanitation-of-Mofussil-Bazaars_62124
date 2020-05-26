@@ -1,0 +1,33 @@
+_repo: Sanitation-of-Mofussil-Bazaars_62124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Disney, G. W. (George William)
+    alias: Disney, George William
+    gutenberg_agent_id: '51783'
+    url: http://www.gutenberg.org/2009/agents/51783
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanitation'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: 'Introduction -- Drainage -- Water-supply -- Road making -- Building
+  construction -- Latrines and urinals -- Collection and removal of night-soil --
+  Disposal of night-soil and trenching grounds -- Collection and disposal of refuse
+  -- Biological system for disposal of night-soil -- General sanitation -- Appendix
+  A: Model rules, privies and urinals -- Appendix B: Form for regulating removal of
+  town sweepings -- Appendix C: Well register -- Appendix D: Model building regulations
+  -- Appendix E: Table for the repayment of loans -- Appendix F: Rules for the preparation,
+  submission and execution of projects of water-supply, sewerage or drainage, by local
+  authorities -- Appendix G: Form for annual report on bridges and culverts -- Appendix
+  H: Specification for tar-macadam.'
+title: Sanitation of Mofussil Bazaars
+url: http://www.gutenberg.org/ebooks/62124
